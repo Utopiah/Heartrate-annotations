@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "80bcdcd7-a0fc-4208-acfd-d7c51f35057b",
+    "appType": "app",
+    "appDisplayName": "Hear trate annotations",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#8bc34a",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Hear trate annotations"
+      }
+    }
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.0.0"
+  }
+}
